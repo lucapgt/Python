@@ -1,0 +1,5 @@
+('C:\\Users\\luca.baratti\\PycharmProjects\\Test_DST80_drop_field\\build\\TK100-80bit_conf\\pyserial-3.4-py3.6.egg',
+ None,
+ {'*.py', '*.pyc', 'EGG-INFO', '*.pyo', '*.pyd', '*.so'},
+ 'DATA',
+ [])
